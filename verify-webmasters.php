@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Verify Google Webmaster Tools
-Plugin URI: http://wordpress.org/extend/plugins/verify-google-webmaster-tools/
+Plugin URI: https://github.com/mattclegg/wp-verify-google-webmaster-tools/
 Description: Adds <a href="http://www.google.com/webmasters/">Google Webmaster Tools</a> verification meta-tag.
 Version: 2.0
 Author: Matt Clegg

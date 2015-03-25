@@ -1,0 +1,12 @@
+{
+    "name": "mattclegg-wp/verify-google-webmaster-tools",
+    "description": "Adds <a href=\"http://www.google.com/webmasters/\">Google Webmaster Tools</a> verification meta-tag.",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "mattclegg",
+            "email": "cleggmatt@gmail.com"
+        }
+    ],
+    "require": {}
+}
